@@ -1,10 +1,6 @@
-**Country / region: Spain (Catalonia)**
+*Survey Of chapter2: Choice Experiment on Low Crude Protein Pig Diets (Catalonia) 
+***********************************************************************************
 
-*Note: the 12 choice cards (CARD 01–CARD 12) were presented to respondents as full-colour graphic cards combining the attribute levels described below for Options 1 and 2, against the fixed baseline levels of Option 3.*
-
-# 7.2 Appendix B
-
-*Survey – Choice Experiment on Low Crude Protein Pig Diets (Catalonia) — Chapter 2*
 
 Welcome to our survey!
 
@@ -360,4 +356,5 @@ This is a research project; no actual donation is requested. Please nonetheless 
 
 **Q36. What is your zip/postal code?**
 
-[Note: CARD 01–CARD 12 above list the twelve choice occasions presented to respondents. Each was displayed as a full-colour graphic card combining the attribute levels described above (Climate change, Particulate matter, Methane, Ammonia, Soybean, Animal welfare and Cost) for Options 1 and 2, against the fixed baseline levels of Option 3. See the example choice card reproduced earlier in this appendix, immediately before CARD 01.]
+Note: The CARD 01–CARD 12 above list the twelve choice occasions presented to respondents. Each was displayed as a full-colour graphic card combining the attribute levels described above (Climate change, Particulate matter, Methane, Ammonia, Soybean, Animal welfare and Cost) for Options 1 and 2, against the fixed baseline levels of Option. 
+
