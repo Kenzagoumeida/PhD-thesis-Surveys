@@ -1,4 +1,4 @@
-**Chapter 4 — harmonised English version**
+**QUestionnaire (harmonised English version) for Chapter 4: Adherence to the Mediterranean Diet**
 
 > This is the master English-language version of the instrument. For data collection it was translated and administered locally as follows:
 >
@@ -9,9 +9,9 @@
 > | Morocco | Arabic |
 >
 > The Spanish-language original is the source text this English version was translated from. The Turkish and Arabic fieldwork versions are not included in this repository.
-# Appendix D
 
-*Questionnaire on Adherence to the Mediterranean Diet (translated from the Spanish original) — Chapter 4*
+
+
 
 
 ### Screening questions
