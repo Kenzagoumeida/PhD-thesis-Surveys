@@ -12,8 +12,6 @@ Supplementary survey instruments used in this thesis, referenced from the append
 
 - **Chapters 2 and 3** used a single-country instrument (Spain only); nothing to translate.
 - **Chapter 4** used one harmonised instrument administered in three countries, each in the local language: **Spanish** (Spain), **Turkish** (Turkey), and **Arabic** (Morocco). The file in `chapter4_questionnaire/` is the master **English version**, translated from the original Spanish instrument. The Turkish and Arabic fieldwork versions are not included here — add them to this folder if/when you have those files.
-- All content is reproduced exactly as it appears in the thesis appendices; nothing has been altered.
+- All content is reproduced exactly as it appears in the thesis appendices; exept some adaptations regarding the individual and household income levels.
 
-## Using this repository
 
-You can host this either as **one repository covering all three questionnaires** (link straight to this README from your thesis), or as **three separate repositories**, one per chapter — just upload each subfolder's contents to its own repo instead of all three together. Either way, keep each `.md` file's contents intact.
