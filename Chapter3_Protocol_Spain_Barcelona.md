@@ -1,12 +1,10 @@
-**Country / region: Spain (Barcelona)**
+**Questionnaire for chapter 3
 
-# Appendix C
-
-*Experimentation Protocol — Auction Experiment and Questionnaire on Packaged Salads — Chapter 3*
+*Experimentation Protocol: Auction Experiment and Questionnaire on Packaged Salads 
+**********************************************************************************
 
 
 ### Inclusion criteria for recruitment
-
 
 **Q1. Who is mainly responsible for your household food shopping?**
 
